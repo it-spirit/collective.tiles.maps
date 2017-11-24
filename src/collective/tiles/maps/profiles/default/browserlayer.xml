@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layers>
+  <layer
+      name="collective.tiles.maps"
+      interface="collective.tiles.maps.interfaces.ICollectiveTilesMapsLayer"
+      />
+</layers>
